@@ -7,76 +7,76 @@ annotations:
     reference: ''
     span:
       start: 0
-      end: 749
+      end: 750
     note_ref: ec86f9e098a449629a44f4c0bf3025fd
   9e857c13261a4cbaacf092fe10c9d262:
     imgnum: 1848
     reference: ''
     span:
-      start: 751
-      end: 2084
+      start: 752
+      end: 2085
     note_ref: ec86f9e098a449629a44f4c0bf3025fd
   8c8d32a0b25544739b29d19940b748f0:
     imgnum: 1849
     reference: ''
     span:
-      start: 2086
-      end: 3432
+      start: 2087
+      end: 3433
     note_ref: ec86f9e098a449629a44f4c0bf3025fd
   a14c7d5f50ca43d6a2227715ca9d4fa5:
     imgnum: 1850
     reference: ''
     span:
-      start: 3434
-      end: 4734
+      start: 3435
+      end: 4735
     note_ref: ec86f9e098a449629a44f4c0bf3025fd
   9670e278b68b42c19fedb1ef91b3a236:
     imgnum: 1851
     reference: ''
     span:
-      start: 4736
-      end: 6049
+      start: 4737
+      end: 6050
     note_ref: ec86f9e098a449629a44f4c0bf3025fd
   dca03704adc2407f8977744a02be6ac6:
     imgnum: 1852
     reference: ''
     span:
-      start: 6051
-      end: 7381
+      start: 6052
+      end: 7382
     note_ref: ec86f9e098a449629a44f4c0bf3025fd
   bedd93d9dbbb4dd0a1634239a757825d:
     imgnum: 1853
     reference: ''
     span:
-      start: 7383
-      end: 8694
+      start: 7384
+      end: 8695
     note_ref: ec86f9e098a449629a44f4c0bf3025fd
   4f6e27ec9c3043f2838ea8c316b29db9:
     imgnum: 1854
     reference: ''
     span:
-      start: 8696
-      end: 10016
+      start: 8697
+      end: 10017
     note_ref: ec86f9e098a449629a44f4c0bf3025fd
   83c63c1f3e9f475ab8d161247cfea3b9:
     imgnum: 1855
     reference: ''
     span:
-      start: 10018
-      end: 11347
+      start: 10019
+      end: 11348
     note_ref: 4a107e8468a94bdf9150001e3ebffe36
   ec86f9e098a449629a44f4c0bf3025fd:
     imgnum: 1856
     reference: ''
     span:
-      start: 11349
-      end: 13001
+      start: 11350
+      end: 13002
   4a107e8468a94bdf9150001e3ebffe36:
     imgnum: 1857
     reference: ''
     span:
-      start: 13003
-      end: 13274
+      start: 13004
+      end: 13275
 local_ids:
   084d0fdbef6a4481987e3e5287510d24: 200000
   9e857c13261a4cbaacf092fe10c9d262: 200001
